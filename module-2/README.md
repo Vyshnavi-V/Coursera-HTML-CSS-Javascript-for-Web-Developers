@@ -2,4 +2,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://vyshnavi-v.github.io/Coursera-HTML-CSS-Javascript-for-Web-Developers/Assignments/module-2/index.html)
+# To see the output [CLICK HERE](https://vyshnavi-v.github.io/Coursera-HTML-CSS-Javascript-for-Web-Developers/module-2/index.html)
